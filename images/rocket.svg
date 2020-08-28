@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new 0 0 1920 1080" version="1.1" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:url(#e);} .st1{fill:url(#f);} .st2{fill:url(#g);} .st3{fill:url(#h);}</style>
+ <linearGradient id="e" x1="1111.4" x2="1111.4" y1="540.19" y2="715.86" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FF152F" offset="0"/>
+  <stop stop-color="#2A0003" offset=".7333"/>
+ </linearGradient>
+ <path class="st0" d="m1078.5 540.2c-12.9 36-5.1 43.2-38.7 107.9 82.8 55.2 129.7 76.7 140.7 64.5 12.5-13.9-21.5-71.4-102-172.4z"/>
+ <linearGradient id="f" x1="960" x2="960" y1="656.89" y2="929.87" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FF472A" offset="0"/>
+  <stop stop-color="#E0FF64" offset="1"/>
+ </linearGradient>
+ <path class="st1" d="m960 929.9c-18.2-108.1-36.3-162.1-54.4-162-11.9 0-23.9 23.7-35.7 71-5.5-13.4-15.6-43.1-11.9-81 5.8-58.8 40.6-93.3 48.7-101h53.3s35.5 0 53.3 0c8.1 7.6 42.9 42.2 48.7 101 3.7 37.9-6.4 67.6-11.9 81-11.9-47.3-23.8-71-35.7-71-18.1-0.1-36.2 53.9-54.4 162z"/>
+ <linearGradient id="g" x1="809.62" x2="809.62" y1="541.19" y2="716.86" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FF152F" offset="0"/>
+  <stop stop-color="#2A0003" offset=".7333"/>
+ </linearGradient>
+ <path class="st2" d="m842.5 541.2c12.9 36 5.1 43.2 38.7 107.9-82.8 55.2-129.7 76.7-140.7 64.5-12.5-13.9 21.5-71.4 102-172.4z"/>
+ <linearGradient id="h" x1="960" x2="960" y1="145.78" y2="647.14" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#FF152F" offset="0"/>
+  <stop stop-color="#2A0003" offset="1"/>
+ </linearGradient>
+ <path class="st3" d="m960 647.1h-69.3c-14.2-28.1-108.9-223.6-14.9-398.6 24-44.6 54.9-78.1 84.1-102.7 29.2 24.6 60.1 58.1 84.1 102.7 94 175-0.7 370.5-14.9 398.6h-69.1m0-311.5c-33.6 0-60.8 27.2-60.8 60.8s27.2 60.8 60.8 60.8 60.8-27.2 60.8-60.8-27.2-60.8-60.8-60.8zm0 139.7c-22.9 0-41.5 18.6-41.5 41.5s18.6 41.5 41.5 41.5 41.5-18.6 41.5-41.5-18.6-41.5-41.5-41.5zm0 101.2c-15.4 0-27.9 12.5-27.9 27.9s12.5 27.9 27.9 27.9 27.9-12.5 27.9-27.9-12.5-27.9-27.9-27.9z"/>
+</svg>
