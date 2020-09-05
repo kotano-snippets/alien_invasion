@@ -1,5 +1,6 @@
 import pygame
 
+
 class Ship:
     """A class to manage the ship."""
 
@@ -29,7 +30,11 @@ class Ship:
 
         self.rect.x = self.x
 
-
     def blitme(self):
         """Draw the ship at its current location."""
         self.screen.blit(self.image, self.rect)
+
+    def center_ship(self):
+        """Center the ship on the screen."""
+        self.rect.midbottom = self.screen_rect.midbottom
+        self.x = float(self.rect.x)
